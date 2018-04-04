@@ -1,0 +1,28 @@
+site_name: NISO FASTEN Working Group - Recommended Standards
+pages:
+    - Home: docs/index.md
+    - Existing Standards: docs/standards.md
+    - Standards Recommendations:
+        - 'Accessibility': 'docs/issues/topic-07.md'
+        - 'User Authentication on Library Systems': 'docs/issues/topic-08.md'
+        - 'User Authentication on Providers': 'docs/issues/topic-09.md'
+        - 'Internationalisation': 'docs/issues/topic-10.md'
+        - 'TLS encryption and authentication': 'docs/issues/topic-14.md'
+        - 'Authentication': 'docs/issues/topic-16.md'
+        - 'Title metadata': 'docs/issues/topic-17.md'
+        - 'Access restrictions': 'docs/issues/topic-18.md'
+        - 'Discovery layer query of patron status': 'docs/issues/topic-24.md'
+        - 'Discovery layer capabilities': 'docs/issues/topic-25.md'
+        - 'Pickup location': 'docs/issues/topic-27.md'
+        - 'Queens: Search': 'docs/issues/topic-44.md'
+        - 'Queens: Ranked/Featured Items': 'docs/issues/topic-45.md'
+        - 'Queens: Register Patron with Vendor': 'issues/topic-49.md'
+        - 'Queens: Check out Items': 'docs/issues/topic-50.md'
+        - 'Queens: Item Availability': 'docs/issues/topic-51.md'
+        - 'Queens: Hold/Request Item': 'docs/issues/topic-52.md'
+        - 'Queens: Cancel Hold/Request Item': 'issues/topic-53.md'
+    - References: references.md
+    
+theme: readthedocs
+
+
