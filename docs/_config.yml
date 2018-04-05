@@ -23,8 +23,5 @@ pages:
         - 'Queens: Cancel Hold/Request Item': 'issues/topic-53.md'
     - References: 'references.md'
     
-remote_theme: pawamoy/jekyll-readthedocs
-plugins:
-  - jekyll-feed
-
+remote_theme: chromatical/jekyll-materialdocs
 
