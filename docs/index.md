@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Home
 weight: 0
 ---
 # Welcome to Flexible API STandard for E-content NISO (FASTEN) 

@@ -1,7 +1,6 @@
 ---
-parent: index.md
 layout: page
-weight: 1
+weight: 0
 ---
 
 #References
