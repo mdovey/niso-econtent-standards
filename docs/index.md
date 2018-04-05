@@ -1,4 +1,5 @@
 ---
+title: Home
 layout: page
 weight: 0
 ---

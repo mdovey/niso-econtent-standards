@@ -1,6 +1,7 @@
 ---
+title: References
 layout: page
-weight: 0
+wieght: 1
 ---
 
 #References

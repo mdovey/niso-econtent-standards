@@ -1,5 +1,6 @@
 ---
+title: Standards
 layout: page
-weight: 0
+weight: 1
 ---
 #Standards
