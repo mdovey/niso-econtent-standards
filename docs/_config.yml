@@ -1,7 +1,7 @@
 site_name: NISO FASTEN Working Group - Recommended Standards
 pages:
-    - Home: index.md
-    - Existing Standards: standards.md
+    - Home: 'index.md'
+    - Existing Standards: 'standards.md'
     - Standards Recommendations:
         - 'Accessibility': 'issues/topic-07.md'
         - 'User Authentication on Library Systems': 'issues/topic-08.md'
@@ -21,7 +21,7 @@ pages:
         - 'Queens: Item Availability': 'issues/topic-51.md'
         - 'Queens: Hold/Request Item': 'issues/topic-52.md'
         - 'Queens: Cancel Hold/Request Item': 'issues/topic-53.md'
-    - References: references.md
+    - References: 'references.md'
     
 remote_theme: pawamoy/jekyll-readthedocs
 plugins:
