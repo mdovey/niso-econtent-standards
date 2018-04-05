@@ -1,27 +1,10 @@
 site_name: NISO FASTEN Working Group - Recommended Standards
-pages:
-    - Home: 'index.md'
-    - Existing Standards: 'standards.md'
-    - Standards Recommendations:
-        - 'Accessibility': 'issues/topic-07.md'
-        - 'User Authentication on Library Systems': 'issues/topic-08.md'
-        - 'User Authentication on Providers': 'issues/topic-09.md'
-        - 'Internationalisation': 'issues/topic-10.md'
-        - 'TLS encryption and authentication': 'issues/topic-14.md'
-        - 'Authentication': 'issues/topic-16.md'
-        - 'Title metadata': 'issues/topic-17.md'
-        - 'Access restrictions': 'issues/topic-18.md'
-        - 'Discovery layer query of patron status': 'issues/topic-24.md'
-        - 'Discovery layer capabilities': 'issues/topic-25.md'
-        - 'Pickup location': 'issues/topic-27.md'
-        - 'Queens: Search': 'issues/topic-44.md'
-        - 'Queens: Ranked/Featured Items': 'issues/topic-45.md'
-        - 'Queens: Register Patron with Vendor': 'issues/topic-49.md'
-        - 'Queens: Check out Items': 'issues/topic-50.md'
-        - 'Queens: Item Availability': 'issues/topic-51.md'
-        - 'Queens: Hold/Request Item': 'issues/topic-52.md'
-        - 'Queens: Cancel Hold/Request Item': 'issues/topic-53.md'
-    - References: 'references.md'
-    
+title: MaterialDocs
+email: hello@chromaticaldesign.com
+description: A demo site for the Jekyll MaterialDocs theme.
+baseurl: "/jekyll-materialdocs" # the subpath of your site, e.g. /blog
+url: "https://chromatical.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+highlight: rouge
+copyright: James King    
 remote_theme: chromatical/jekyll-materialdocs
 
